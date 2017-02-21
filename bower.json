@@ -1,0 +1,29 @@
+{
+  "name": "Angular Series",
+  "authors": [
+    "Samuel Barbosa <samu101108@gmail.com>"
+  ],
+  "description": "Codigos seguidos de videos do YouTube ,canal Rodrigo Branas",
+  "main": "index.html",
+  "keywords": [
+    "angularjs",
+    "scope",
+    "model",
+    "view",
+    "controler",
+    "whatever"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.2",
+    "bootstrap": "^3.3.7"
+  }
+}
